@@ -1,0 +1,43 @@
+{
+  "name": "recursive-max",
+  "version": "0.1.0",
+  "description": "Returns the largest number from a multidimensional array or object.",
+  "main": "index.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tyxla/recursive-max"
+  },
+  "keywords": [
+    "max",
+    "maximum",
+    "largest",
+    "number",
+    "recursive",
+    "recursion",
+    "large",
+    "object",
+    "array"
+  ],
+  "author": {
+    "name": "Marin Atanasov",
+    "email": "contact@marinatanasov.com",
+    "url": "http://marinatanasov.com"
+  },
+  "contributors": [
+    "tyxla"
+  ],
+  "bugs": {
+    "url": "https://github.com/tyxla/recursive-max/issues"
+  },
+  "homepage": "https://github.com/tyxla/recursive-max",
+  "license": "MIT"
+}
